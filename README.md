@@ -20,12 +20,21 @@ Projects
 
 Personal Expense Tracker
 
-A Python program that allows users to:
+A Python application that allows users to:
 
 • Add expenses with names, amounts, and categories.
 • View recorded expenses.
 • Calculate total expenses.
-• Handle invalid amount inputs.
+• Validate expense amounts.
+• Save expenses to a JSON file.
+• Load previously saved expenses when the program starts.
+
+Technologies Used
+
+• Python
+• JSON
+• File Handling
+• Exception Handling
 
 Goal
 
